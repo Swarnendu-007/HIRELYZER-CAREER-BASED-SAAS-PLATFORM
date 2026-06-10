@@ -14,7 +14,7 @@
 
 ## 🚀 Project Summary
 
-**HIRELYZER** is a powerful, ethically-aware resume analysis tool designed using cutting-edge LLMs. It helps users:
+**HIRELYZER** is a powerful, ethically-aware resume analysis tool designed using cutting-edge LLMs(it is a group project of 2). It helps users:
 
 - Analyze resumes against job descriptions (ATS scoring)
 - Detect gender-coded bias in language
